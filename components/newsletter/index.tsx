@@ -11,7 +11,9 @@ const Newsletter = () => {
         {/* input div */}
         <div className="bg-newsletterOrange bg-center bg-cover bg-no-repeat flex-1 flex flex-col justify-center items-center px-8 lg:px-0h-full">
           <div>
-            <h2 className="h2 mb-12">"Trusted care when you’re not there"</h2>
+            <h2 className="h2 mb-12">
+              &quot;Trusted care when you&apos;re not there&quot;
+            </h2>
           </div>
         </div>
         {/* image div */}
